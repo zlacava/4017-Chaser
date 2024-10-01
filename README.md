@@ -1,5 +1,5 @@
 ## Creator
-Zachary LaCava 
+Zachary LaCava \n
 zlacava22@vt.edu
 
 ## Current Status
