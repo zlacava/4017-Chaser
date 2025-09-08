@@ -29,19 +29,7 @@ This project was created with the intent of giving a PCB of this device to learn
 * Fabricate, populate, and test the PCB
 * Iterate until PCB is functional and efficient
 
-## Design Decisions
-
-
-
-## Design Misc
-
-
-
-## BOM + Component Cost
-
-
-
 ## Useful Links
-
+https://www.flux.ai/zlacava/4017-chaser?editor=schematic 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
